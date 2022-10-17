@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/clion/CLion 2021.2.2/CS210 Project 2/BinarySearchTree.h
+memory
+-
+Map.h
+D:/clion/CLion 2021.2.2/CS210 Project 2/Map.h
+set
+-
+
+D:/clion/CLion 2021.2.2/CS210 Project 2/Map.h
+memory
+-
+Set.h
+D:/clion/CLion 2021.2.2/CS210 Project 2/Set.h
+
+D:/clion/CLion 2021.2.2/CS210 Project 2/Set.h
+
+D:/clion/CLion 2021.2.2/CS210 Project 2/main.cpp
+iostream
+-
+iomanip
+-
+random
+-
+set
+-
+memory
+-
+BinarySearchTree.h
+D:/clion/CLion 2021.2.2/CS210 Project 2/BinarySearchTree.h
+Map.h
+D:/clion/CLion 2021.2.2/CS210 Project 2/Map.h
+Set.h
+D:/clion/CLion 2021.2.2/CS210 Project 2/Set.h
+
